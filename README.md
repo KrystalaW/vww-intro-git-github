@@ -9,7 +9,7 @@ We won't cover the command line interface (CLI) in the workshop, but the slide d
 
 ## What is Git?
 
-Git is an open-source, **distributed** **version control system**.
+Git is an open-source, **distributed** **version control system**. wowowow
 
 A *version control system* allows you to keep track of changes to documents, making collaboration easy. *Distributed*, in this case, means that each user has a copy of the repository on their own computer that syncs with a remote server only when you're ready for it to do so. This makes changing files and storing them fast and provides numerous backups since every user has a copy on their own machine.
 
